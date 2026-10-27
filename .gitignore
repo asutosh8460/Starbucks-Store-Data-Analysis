@@ -5,5 +5,4 @@ venv/
 .idea/
 .ipynb_checkpoints/
 *.log
-# add the big file here, for example:
-starbucks_usa.txt
+starbucksusa/starbucks_usa.txt
